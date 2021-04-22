@@ -1,0 +1,9 @@
+*
+!*/
+
+!*.sh
+
+!README.md
+!COPYING
+
+!.gitignore
