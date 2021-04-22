@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Print that the pre-commit hook is used.
+echo "Pre-Commit Hook Running: Clang-Format Check"
+
 # Change into the git root directory.
 cd `git rev-parse --show-toplevel`
 
