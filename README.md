@@ -2,6 +2,15 @@
 
 Pre-Commit Hook for Git to Check the Correct Formatting of All Staged C and C++ Source Files
 
+<p align="center">
+    <img src="https://img.shields.io/github/languages/top/lyrahgames/git-clang-format-check.svg?style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/code-size/lyrahgames/git-clang-format-check.svg?style=for-the-badge">
+    <img src="https://img.shields.io/github/repo-size/lyrahgames/git-clang-format-check.svg?style=for-the-badge">
+    <a href="COPYING.md">
+        <img src="https://img.shields.io/github/license/lyrahgames/git-clang-format-check.svg?style=for-the-badge&color=blue">
+    </a>
+</p>
+
 ## Author
 - Markus Pawellek "lyrahgames" (lyrahgames@mailbox.org)
 
