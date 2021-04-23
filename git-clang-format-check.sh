@@ -35,7 +35,7 @@ for file in $staged_files; do
 done
 
 # Make sure to remove temporary file if it has been created.
-rm -f .pre-commit.clang-format-check.tmp
+rm -f $tmp_file
 
 # Show error message if unformatted files have been found.
 if test $is_not_formatted -eq 1; then
